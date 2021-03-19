@@ -2,7 +2,7 @@
 
 **Instagram Activity** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **8** hours spent in total
+Time spent: **16** hours spent in total
 
 ## User Stories
 
@@ -12,6 +12,9 @@ The following **required** functionality is completed:
 - [x ] User can log in and log out of his or her account.
 - [ x] The current signed in user is persisted across app restarts.
 - [x ] User can take a photo, add a caption, and post it to "Instagram".
+- [x ] User can view the last 20 posts submitted to "Instagram".
+- [x ] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [ ] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 The following **optional** features are implemented:
 
@@ -28,6 +31,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='InstagramActivity1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='InstagramActivityWalkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
